@@ -6,9 +6,6 @@
 
 ## install
 1. https://pub.dev/packages/bitsdojo_window : 참고
-
     #include <bitsdojo_window_windows/bitsdojo_window_plugin.h>
-   
     auto bdw = bitsdojo_window_configure(BDW_CUSTOM_FRAME | BDW_HIDE_ON_STARTUP);
-
-3. windows\runner\main.cpp 에 헤더 추가해야함
+2. windows\runner\main.cpp 에 헤더 추가해야함
